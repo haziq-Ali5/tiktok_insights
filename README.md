@@ -65,7 +65,7 @@ A sophisticated AI-powered video analytics platform designed to help content cre
 ```bash
 # Clone the repository
 git clone https://github.com/haziq-Ali5/tiktok_insights  
-cd ask-skylar
+cd tiktok_insights
 
 # Install dependencies
 npm install
