@@ -76,9 +76,9 @@ cp .env.example .env.local
 
 # Run development server
 npm run dev 
-
+```
 ### ⚙️ Backend Setup
-
+```bash
 # Navigate to backend directory
 # Create virtual environment
 python -m venv venv
@@ -91,3 +91,4 @@ pip install -r requirements.txt
 
 # Run the API server
 uvicorn main:app --reload --host 0.0.0.0 --port 8000
+```
